@@ -128,12 +128,10 @@ Collection of machine learning experiments and data analysis.
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Suhasgowd&theme=algolia&no-frame=true&row=1">
-
+<img src="https://github-profile-trophy.vercel.app/?username=Suhasgowd&theme=algolia&no-frame=true&margin-w=10&row=1"/>
 </p>
 
 ---
