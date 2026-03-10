@@ -1,13 +1,3 @@
-<h1 align="center">Hi 👋, I'm Suhas Gowda</h1>
-<h3 align="center">Full Stack Developer | Machine Learning Enthusiast | Python Developer</h3>
-
-<p align="center">
-  <a href="https://github.com/Suhasgowd">
-    <img src="https://komarev.com/ghpvc/?username=Suhasgowd&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-
----
 <!-- HEADER BANNER -->
 
 <h1 align="center">Hi 👋 I'm Suhas Gowda</h1>
